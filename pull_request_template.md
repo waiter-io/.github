@@ -12,4 +12,5 @@ Description of PR that completes the issue here...
 
 ## Checklist
 
-- [ ] Linked issues on the right bar?
+- [ ] Added Projects on the right bar
+- [ ] Linked issues on the right bar
